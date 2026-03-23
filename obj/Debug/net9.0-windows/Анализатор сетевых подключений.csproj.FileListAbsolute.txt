@@ -1,0 +1,19 @@
+C:\Users\san20\source\repos\Анализатор сетевых подключений\bin\Debug\net9.0-windows\Анализатор сетевых подключений.exe
+C:\Users\san20\source\repos\Анализатор сетевых подключений\bin\Debug\net9.0-windows\Анализатор сетевых подключений.deps.json
+C:\Users\san20\source\repos\Анализатор сетевых подключений\bin\Debug\net9.0-windows\Анализатор сетевых подключений.runtimeconfig.json
+C:\Users\san20\source\repos\Анализатор сетевых подключений\bin\Debug\net9.0-windows\Анализатор сетевых подключений.dll
+C:\Users\san20\source\repos\Анализатор сетевых подключений\bin\Debug\net9.0-windows\Анализатор сетевых подключений.pdb
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\Анализатор сетевых подключений_MarkupCompile.cache
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\Анализатор сетевых подключений.g.resources
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\Анализатор сетевых подключений.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\Анализатор сетевых подключений.AssemblyInfoInputs.cache
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\Анализатор сетевых подключений.AssemblyInfo.cs
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\Анализатор сетевых подключений.csproj.CoreCompileInputs.cache
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\Анализатор сетевых подключений.dll
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\refint\Анализатор сетевых подключений.dll
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\Анализатор сетевых подключений.pdb
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\Анализатор сетевых подключений.genruntimeconfig.cache
+C:\Users\san20\source\repos\Анализатор сетевых подключений\obj\Debug\net9.0-windows\ref\Анализатор сетевых подключений.dll
